@@ -1,1 +1,1 @@
-# -sdmemorial-cricket.github.io
+# sdmemorial-cricket.github.io
