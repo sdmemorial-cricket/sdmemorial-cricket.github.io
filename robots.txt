@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sdmemorial-cricket.github.io/sitemap.xml
